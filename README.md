@@ -1,5 +1,8 @@
 # arr-scripts-v2
 
+This project is my own personal documenation for various scripts I've written to improve and further automate the usage of the ARR suite of apps. Support is not guaranteed, scripts are provided as-is...
+
+
 ## Installation
 
 ### Container Setup
