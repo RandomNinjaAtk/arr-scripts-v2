@@ -11,7 +11,7 @@ This project is my own personal documenation for various scripts I've written to
 ```
 services:
   arr-scripts:
-    image: lscr.io/linuxserver/alpine::3.23
+    image: lscr.io/linuxserver/alpine:3.23
     container_name: arr-scripts
     environment:
       - PUID=1000
